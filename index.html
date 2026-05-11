@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Hidden Pillars of AI</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=JetBrains+Mono&display=swap" rel="stylesheet"/>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{height:100%;overflow:hidden;background:#07070f;color:#e2e8f0;font-family:'Inter',sans-serif}
+
+/* ── Top bar ──────────────────────────────────────── */
+#topbar{
+  display:grid;grid-template-columns:1fr auto;align-items:center;
+  padding:10px 20px;border-bottom:1px solid #111122;gap:16px;
+}
+#topbar h1{font-size:16px;font-weight:800;color:#fff;line-height:1.3}
+#topbar .meta{font-size:9.5px;color:#2d3748;margin-top:2px}
+#instruct{font-size:11px;color:#475569;background:#0d0d1a;border:1px solid #1a1a2e;border-radius:6px;padding:6px 12px;white-space:nowrap}
+
+/* ── KPIs ─────────────────────────────────────────── */
+#kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;padding:8px 20px;border-bottom:1px solid #111122}
+.kpi{background:#0a0a18;border:1px solid #161624;border-radius:8px;padding:8px 12px;display:flex;align-items:center;gap:10px}
+.kpi-v{font-size:20px;font-weight:800;color:#fff;letter-spacing:-.02em;flex-shrink:0}
+.kpi-l{font-size:9.5px;color:#374151;line-height:1.4}
+.kpi-v.red{color:#ef4444}
+
+/* ── Main ────────────────────────────────────────── */
+#main{
+  display:grid;
+  grid-template-columns:240px 1fr;
+  height:calc(100vh - 110px);
+  overflow:hidden;
+}
+
+/* ── Sidebar ─────────────────────────────────────── */
+#sidebar{
+  border-right:1px solid #111122;padding:12px;
+  display:flex;flex-direction:column;gap:10px;
+  overflow-y:auto;overflow-x:hidden;
+}
+::-webkit-scrollbar{width:3px}::-webkit-scrollbar-thumb{background:#1e2035;border-radius:2px}
+
+.s-label{font-size:8px;color:#1e2035;text-transform:uppercase;letter-spacing:.09em;margin-bottom:4px}
+#panel-year{font-size:10px;color:#ef4444;font-weight:700}
+#panel-title{font-size:11px;font-weight:700;color:#e2e8f0;line-height:1.45;margin:2px 0 8px}
+.bar-row{display:flex;align-items:center;gap:6px;margin-bottom:6px}
+.bar-label{width:80px;font-size:9.5px;color:#6b7280;flex-shrink:0}
+.bar-track{flex:1;height:5px;background:#111122;border-radius:3px;overflow:hidden}
+.bar-fill{height:100%;border-radius:3px;transition:width .4s}
+.bar-val{width:26px;text-align:right;font-size:9.5px;font-weight:700;color:#e2e8f0}
+#ris-block{padding-top:8px;border-top:1px solid #111122;margin-top:2px}
+.gremlin-wrap{background:#030a04;border:1px solid #0a200a;border-radius:7px;padding:9px}
+.gremlin-label{font-size:8px;color:#166534;text-transform:uppercase;letter-spacing:.07em;margin-bottom:5px}
+pre{font-size:10px;color:#4ade80;font-family:'JetBrains Mono',monospace;line-height:1.75;white-space:pre-wrap;margin:0}
+
+/* Cascade (inside sidebar) */
+#gone-section{display:none;background:#0d0404;border:1px solid #450a0a;border-radius:8px;padding:10px}
+#gone-title{font-size:8.5px;color:#b91c1c;text-transform:uppercase;letter-spacing:.05em;margin-bottom:8px;font-weight:700}
+#gone-pills{display:flex;flex-wrap:wrap;gap:5px}
+.cpill{background:#110606;border:1px solid #3b0f0f;border-radius:5px;padding:3px 8px;font-size:10px;font-weight:700;color:#6b7280;text-decoration:line-through;text-decoration-color:#ef4444}
+
+#chain-section{display:none;background:#07070f;border:1px solid #1a1a2e;border-radius:8px;padding:10px}
+#chain-section .ch-title{font-size:8px;color:#1e2035;text-transform:uppercase;letter-spacing:.07em;margin-bottom:8px}
+.chain-row{margin-bottom:7px;padding-bottom:7px;border-bottom:1px solid #0d0d1a}
+.chain-row:last-child{border-bottom:none;margin-bottom:0;padding-bottom:0}
+.chain-bridge{font-size:10px;font-weight:700;color:#fde68a}
+.chain-bridge span{color:#374151;font-weight:400;font-size:9px}
+.chain-removes{font-size:9px;color:#374151;margin:3px 0 4px 0}
+.chain-prods{display:flex;flex-wrap:wrap;gap:4px}
+.chain-prod{font-size:9.5px;color:#374151;border:1px solid #1a1a2e;border-radius:4px;padding:2px 6px;text-decoration:line-through;text-decoration-color:#ef4444}
+
+#quote-box{display:none;border-left:2px solid #ef4444;padding-left:10px}
+#quote-box .ql{font-size:8px;color:#166534;text-transform:uppercase;letter-spacing:.06em;margin-bottom:5px;font-weight:700}
+#quote-text{font-size:11px;font-weight:600;color:#94a3b8;line-height:1.75}
+
+/* ── Graph ───────────────────────────────────────── */
+#graph-wrap{position:relative;background:#07070f;overflow:hidden}
+#svg{width:100%;height:100%;display:block}
+.col-label{position:absolute;top:8px;font-size:8px;color:#1a1a30;text-transform:uppercase;letter-spacing:.08em;font-weight:700}
+#legend{position:absolute;bottom:8px;left:10px;display:flex;gap:10px;flex-wrap:wrap;font-size:9.5px;color:#374151;background:rgba(7,7,15,.9);padding:4px 9px;border-radius:5px}
+#legend span{display:flex;align-items:center;gap:4px}
+.ldot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+#reset-btn{position:absolute;top:8px;right:8px;display:none;background:#0d0d1a;color:#9ca3af;border:1px solid #2a2a3e;border-radius:6px;padding:6px 12px;font-size:11px;font-weight:600;cursor:pointer;font-family:'Inter',sans-serif}
+#reset-btn:hover{border-color:#ef4444;color:#ef4444}
+
+/* ── Tooltip ─────────────────────────────────────── */
+#tooltip{position:fixed;display:none;z-index:9999;background:#0c0c1f;border:1px solid #1e2a4a;border-radius:9px;padding:10px 14px;max-width:280px;pointer-events:none;box-shadow:0 16px 48px rgba(0,0,0,.85)}
+.t-name{font-size:12px;font-weight:800;color:#fff;margin-bottom:3px;line-height:1.35}
+.t-sub{font-size:10px;color:#475569;margin-bottom:5px;line-height:1.5}
+.t-status{font-size:10.5px;font-weight:700;padding:3px 7px;border-radius:4px;display:none}
+.gone-status{color:#ef4444;background:rgba(239,68,68,.1)}
+.safe-status{color:#4ade80;background:rgba(74,222,128,.08)}
+.neutral-status{color:#93c5fd;background:rgba(59,130,246,.1)}
+</style>
+</head>
+<body>
+
+<!-- Top bar -->
+<div id="topbar">
+  <div>
+    <h1>Six papers. Written between 1986 and 2014.<br>They are the reason the modern internet exists.</h1>
+    <div class="meta">250M OpenAlex papers &middot; PuppyGraph citation traversal &middot; Google BigQuery patents</div>
+  </div>
+  <div id="instruct">The red nodes are the hidden pillars. Click one to erase it from history.</div>
+</div>
+
+<!-- KPIs -->
+<div id="kpis">
+  <div class="kpi"><div class="kpi-v" id="k-cites">30K</div><div class="kpi-l">direct citations<br>on this paper</div></div>
+  <div class="kpi"><div class="kpi-v" id="k-ris">23K</div><div class="kpi-l">papers that trace<br>back to this one</div></div>
+  <div class="kpi"><div class="kpi-v" id="k-gone">?</div><div class="kpi-l" id="kpi-gone-lbl">click a red node<br>to count the damage</div></div>
+  <div class="kpi"><div class="kpi-v" id="k-col">78%</div><div class="kpi-l">of AI research<br>builds on this</div></div>
+</div>
+
+<!-- Main -->
+<div id="main">
+  <div id="sidebar">
+    <div>
+      <div class="s-label">Selected paper</div>
+      <div id="panel-year"></div>
+      <div id="panel-title"></div>
+    </div>
+    <div id="bars-wrap">
+      <div class="s-label">What research fields depend on it</div>
+      <div id="bars"></div>
+      <div id="ris-block"></div>
+    </div>
+    <div class="gremlin-wrap">
+      <div class="gremlin-label">Gremlin query via PuppyGraph</div>
+      <pre id="gremlin-pre"></pre>
+    </div>
+    <div id="gone-section"><div id="gone-title"></div><div id="gone-pills"></div></div>
+    <div id="chain-section"><div class="ch-title">Why they collapse: the citation chain</div><div id="chain-content"></div></div>
+    <div id="quote-box"><div class="ql">If this paper never existed</div><p id="quote-text"></p></div>
+  </div>
+
+  <div id="graph-wrap">
+    <div class="col-label" style="left:8%">PILLAR PAPERS</div>
+    <div class="col-label" style="left:42%">BRIDGE PAPERS</div>
+    <div class="col-label" style="left:75%">TODAY'S AI PRODUCTS</div>
+    <svg id="svg"></svg>
+    <div id="legend">
+      <span><span class="ldot" style="background:#ef4444"></span>Foundational pillar (click to remove)</span>
+      <span><span class="ldot" style="background:#f59e0b"></span>Intermediate paper it enables</span>
+      <span><span class="ldot" style="background:#3b82f6"></span>AI product</span>
+      <span><span class="ldot" style="background:#374151"></span>Collapses without the pillar</span>
+    </div>
+    <button id="reset-btn" onclick="doReset()">Restore pillar</button>
+  </div>
+</div>
+
+<div id="tooltip">
+  <div class="t-name" id="t-name"></div>
+  <div class="t-sub" id="t-sub"></div>
+  <div class="t-status" id="t-status"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+<script src="viz_data.js"></script>
+<script src="viz_graph.js"></script>
+</body>
+</html>

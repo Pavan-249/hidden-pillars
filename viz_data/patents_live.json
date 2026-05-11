@@ -1,0 +1,1283 @@
+[
+  {
+    "seed_paper": "attention",
+    "patent_id": "US-2018190268-A1",
+    "filing_date": "20171109",
+    "assignee": "Samsung Electronics Co., Ltd.",
+    "npl_citation_text": "D. Bahdanau, J. Chorowski, D. Serdyuk, P. Brakel and Y. Bengio, \"End-to-end attention-based large vocabulary speech recognition,\" 2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Shanghai, 2016, pp. 4945-4949. (Year: 2016)"
+  },
+  {
+    "seed_paper": "attention",
+    "patent_id": "US-11170287-B2",
+    "filing_date": "20180126",
+    "assignee": "Salesforce.Com, Inc.",
+    "npl_citation_text": "Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. Neural machine translation by jointly learning to align and translate. In ICLR, 2015."
+  },
+  {
+    "seed_paper": "attention",
+    "patent_id": "US-10720151-B2",
+    "filing_date": "20180822",
+    "assignee": "Deepgram, Inc.",
+    "npl_citation_text": "Bahdanau, D., Chorowski, J., Serdyuk, D., Brakel, P., & Bengio, Y. (Mar. 2016). End-to-end attention-based large vocabulary speech recognition. In Acoustics, Speech and Signal Processing (ICASSP), 2016 IEEE International Conference on (pp. 4945-4949). IEEE. Accessible at https://arxiv.org/abs/1508.0"
+  },
+  {
+    "seed_paper": "attention",
+    "patent_id": "US-11100920-B2",
+    "filing_date": "20190325",
+    "assignee": "Mitsubishi Electric Research Laboratories, Inc.",
+    "npl_citation_text": "D. Bahdanau, J. Chorowski, D. Serdyuk, P. Brakel, and Y. Bengio, \u201cEnd-to-end attention-based large vocabulary speech recognition,\u201d in Http://arxiv.org/abs/1508.04395, 2015."
+  },
+  {
+    "seed_paper": "attention",
+    "patent_id": "US-11521071-B2",
+    "filing_date": "20190514",
+    "assignee": "Adobe Inc.",
+    "npl_citation_text": "Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio, \u201cNeural machine translation by jointly learning to align and translate,\u201d arXiv preprint arXiv:1409.0473, 2014."
+  },
+  {
+    "seed_paper": "attention",
+    "patent_id": "US-10593021-B1",
+    "filing_date": "20190911",
+    "assignee": "Inception Institute of Artificial Intelligence, Ltd.",
+    "npl_citation_text": "D. Bahdanau, K. Cho, and Y. Bengio. Neural machine translation by jointly learning to align and translate. In ICLR, 2015."
+  },
+  {
+    "seed_paper": "attention",
+    "patent_id": "US-11322133-B2",
+    "filing_date": "20200721",
+    "assignee": "Adobe Inc.",
+    "npl_citation_text": "Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. \u201cNeural machine translation by jointly learning to align and translate.\u201d arXiv preprint arXiv:1409.0473 (2014)."
+  },
+  {
+    "seed_paper": "attention",
+    "patent_id": "US-11443346-B2",
+    "filing_date": "20201014",
+    "assignee": "Visa International Service Association",
+    "npl_citation_text": "Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. 2014. Neural machine translation by jointly learning to align and translate. arXiv preprint arXiv:1409.0473 (2014)."
+  },
+  {
+    "seed_paper": "attention",
+    "patent_id": "US-12223404-B2",
+    "filing_date": "20230126",
+    "assignee": "Steven D. Flinn",
+    "npl_citation_text": "D. Bahdanau, K. Cho, and Y. Bengio, \u201cNeural machine translation by jointly learning to align and translate,\u201d May 19, 2016, 15 pages., retrieved from //efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1409.0473."
+  },
+  {
+    "seed_paper": "attention",
+    "patent_id": "US-12586409-B2",
+    "filing_date": "20230126",
+    "assignee": "The Regents Of The University Of Michigan",
+    "npl_citation_text": "\nDzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. Neural Machine Translation by Jointly Learning to Align and Translate. Proceedings of ICLR. http://arxiv.org/abs/1409.0473. 2015; pp. 1-15.\n"
+  },
+  {
+    "seed_paper": "backprop",
+    "patent_id": "US-5075868-A",
+    "filing_date": "19890918",
+    "assignee": "The United States Of America As Represented By The Secretary Of The Navy",
+    "npl_citation_text": "Rumelhart, D. E., Hinton, G. E., and Williams, R. J.; \"Learning Internal Representations by Error Propagation\", Parallel Distributed Processing, Chap. 8, pp. 318-328, The MIT Press, Cambridge, Mass. (1986)."
+  },
+  {
+    "seed_paper": "backprop",
+    "patent_id": "US-5101361-A",
+    "filing_date": "19890929",
+    "assignee": "The United States Of America As Represented By The Administrator Of The National Aeronautics And Space Administration",
+    "npl_citation_text": "Rumelhart, Hinton, and Williams (Chapter 8, vol. 1, Parallel Distributed Processing Rumelhart & McClelland, eds. MIT Press, 1986)."
+  },
+  {
+    "seed_paper": "backprop",
+    "patent_id": "US-5119468-A",
+    "filing_date": "19910227",
+    "assignee": "E. I. Du Pont De Nemours And Company",
+    "npl_citation_text": "Rumelhart, Hinton and Williams, \"Learning Internal Representations by Error Propagation\", Chapter 8, pp. 318-362."
+  },
+  {
+    "seed_paper": "backprop",
+    "patent_id": "US-5532950-A",
+    "filing_date": "19940425",
+    "assignee": "Wadia Digital Corporation",
+    "npl_citation_text": "Rumelhart, D. E., Hinton, G. E., and Williams, R. J., \"Learning Internal Representations by Error Propagation\"."
+  },
+  {
+    "seed_paper": "backprop",
+    "patent_id": "US-8112373-B2",
+    "filing_date": "20070305",
+    "assignee": "Tokyo Institute Of Technology",
+    "npl_citation_text": "D. E. Rumelhart, G. E. Hinton & R. J. Williams, \"Learning Internal Representations by Back-Propagation Errors\", Nature, 323, 533-536, Oct. 1986."
+  },
+  {
+    "seed_paper": "backprop",
+    "patent_id": "US-2017228385-A1",
+    "filing_date": "20170208",
+    "assignee": "Hulu, LLC",
+    "npl_citation_text": "Rumelhart, David E., Geoffrey E. Hinton, and Ronald J. Williams. \"Learning representations by back-propagating errors.\" Cognitive modeling 5.3 (1988): 1. (Year: 1988)"
+  },
+  {
+    "seed_paper": "backprop",
+    "patent_id": "US-11328433-B2",
+    "filing_date": "20200630",
+    "assignee": "Honda Motor Co., Ltd.",
+    "npl_citation_text": "D. E. Rumelhart, G. E. Hinton, and R. J. Williams, \u201cLearning representations by back-propagating errors,\u201d nature, vol. 323, No. 6088, pp. 533-536, 1986."
+  },
+  {
+    "seed_paper": "backprop",
+    "patent_id": "US-12288162-B2",
+    "filing_date": "20201119",
+    "assignee": "Neurala, Inc.",
+    "npl_citation_text": "Rumelhart D., Hinton G., and Williams, R. (1986). Learning internal representations by error propagation. In Parallel distributed processing: explorations in the microstructure of cognition, vol. 1, MIT Press. 45 pages."
+  },
+  {
+    "seed_paper": "backprop",
+    "patent_id": "US-RE49461-E",
+    "filing_date": "20201229",
+    "assignee": "Neurala, Inc.",
+    "npl_citation_text": "Rumelhart D., Hinton G., and Williams, R. (1986). Learning internal representations by error propagation. In Parallel distributed processing: explorations in the microstructure of cognition, vol. 1, MIT Press. 45 pages."
+  },
+  {
+    "seed_paper": "cnn",
+    "patent_id": "US-9480402-B2",
+    "filing_date": "20121109",
+    "assignee": "Washington University",
+    "npl_citation_text": "Lecun et al., \"Backpropagation Applied to Handwritten Zip Code Recognition\" Neural Computation, 1989, pp. 541-551, vol. 1."
+  },
+  {
+    "seed_paper": "cnn",
+    "patent_id": "US-10540957-B2",
+    "filing_date": "20150609",
+    "assignee": "Baidu Usa Llc",
+    "npl_citation_text": "Y. Lecun et al., \"Backpropagation Applied to Handwritten Zip Code Recognition,\" AT&T Bell Laboratories, Holmdel, NJ, Neural Computation 1(541-551), 1989 (11pgs)."
+  },
+  {
+    "seed_paper": "cnn",
+    "patent_id": "US-9858496-B2",
+    "filing_date": "20160120",
+    "assignee": "Microsoft Technology Licensing, Llc",
+    "npl_citation_text": "Lecun, et al., \"Backpropagation applied to Handwritten Zip Code Recognition\", In Journal of Neural Computation, vol. 1, Issue 4, Dec. 1989, pp. 541-551."
+  },
+  {
+    "seed_paper": "cnn",
+    "patent_id": "US-10373335-B1",
+    "filing_date": "20170105",
+    "assignee": "Hrl Laboratories, Llc",
+    "npl_citation_text": "Y. LeCun, B. Boser, J. S. Denker, D. Henderson, R. E. Howard, W. Hubbard, and L. D. Jackel, (1989) \"Backpropagation applied to handwritten zip code recognition,\" Neural Computation, 1989, pp. 541-551."
+  },
+  {
+    "seed_paper": "cnn",
+    "patent_id": "US-11164071-B2",
+    "filing_date": "20170627",
+    "assignee": "Samsung Electronics Co., Ltd.",
+    "npl_citation_text": "LeCun et al., \u201cBackpropagation Applied to Handwritten Zip Code Recognition\u201d 1989, pp. 541-551. (Year: 1989)."
+  },
+  {
+    "seed_paper": "cnn",
+    "patent_id": "US-10296603-B2",
+    "filing_date": "20170811",
+    "assignee": "Aquifi, Inc.",
+    "npl_citation_text": "LeCun, Y. et al., Backpropagation Applied to Handwritten Zip Code Recognition, Neural Computation 1, 1989, pp. 541-551, Massachusetts Institute of Technology."
+  },
+  {
+    "seed_paper": "cnn",
+    "patent_id": "US-12468949-B2",
+    "filing_date": "20190805",
+    "assignee": "Hrl Laboratories, Llc",
+    "npl_citation_text": "LeCun, Yann, et al. \u201cBackpropagation applied to handwritten zip code recognition.\u201d Neural computation 1.4 (1989): 541-551."
+  },
+  {
+    "seed_paper": "cnn",
+    "patent_id": "US-11562733-B2",
+    "filing_date": "20190815",
+    "assignee": "Baidu Usa Llc",
+    "npl_citation_text": "Lecun et al., \u201cBackpropagation Applied to Handwritten Zip Code Recognition,\u201d AT&T Bell Laboratories, Holmdel, NJ, Neural Computation 1(541-551), 1989 (11pgs)."
+  },
+  {
+    "seed_paper": "cnn",
+    "patent_id": "US-11961205-B2",
+    "filing_date": "20191107",
+    "assignee": "Samsung Electronics Co., Ltd.",
+    "npl_citation_text": "Lecun et al.; Backpropagation Applied to Handwritten Zip Code Recognition; Neural Computation; Massachusetts Institute of Technology; Dec. 1989."
+  },
+  {
+    "seed_paper": "cnn",
+    "patent_id": "US-11328433-B2",
+    "filing_date": "20200630",
+    "assignee": "Honda Motor Co., Ltd.",
+    "npl_citation_text": "Y. LeCun, B. Boser, J. S. Denker, D. Henderson, R. E. Howard, W. Hubbard, and L. D. Jackel, \u201cBackpropagation applied to handwritten zip code recognition,\u201d Neural computation, vol. 1, No. 4, pp. 541-551, 1989."
+  },
+  {
+    "seed_paper": "cnn",
+    "patent_id": "US-11829413-B1",
+    "filing_date": "20200923",
+    "assignee": "Amazon Technologies, Inc.",
+    "npl_citation_text": "Lecun et al., \u201cBackpropagation applied to handwritten zip code recognition\u201d, Neural Computation, vol. 1, No. 4, Dec. 1989, pp. 541-551."
+  },
+  {
+    "seed_paper": "cnn",
+    "patent_id": "US-10994728-B2",
+    "filing_date": "20201019",
+    "assignee": "Geotab Inc.",
+    "npl_citation_text": "Lecun et al., Backpropagation applied to handwritten zip code recognition. Neural Computation. Dec. 1989;1(4):541-51."
+  },
+  {
+    "seed_paper": "cnn",
+    "patent_id": "US-11557051-B2",
+    "filing_date": "20210121",
+    "assignee": "Toyota Research Institute, Inc.",
+    "npl_citation_text": "LeCun, et al., \u201cBackpropagation Applied to Handwritten Zip Code Recognition\u201d, Neural Computation, 1(4):541-551, 1989."
+  },
+  {
+    "seed_paper": "cnn",
+    "patent_id": "US-11794110-B2",
+    "filing_date": "20210309",
+    "assignee": "Lego A/S",
+    "npl_citation_text": "Lecun et al., \u201cBackpropagation Applied to Handwiilten Zip Code Recognition\u201d, Neural Computation 1:541-551, 1989."
+  },
+  {
+    "seed_paper": "cnn",
+    "patent_id": "US-11670012-B2",
+    "filing_date": "20210430",
+    "assignee": "Snap Inc.",
+    "npl_citation_text": "Lecun, Y., et al., \u201cBackpropagation Applied to Handwritten Zip Code Recognition\u201d, Neural Computation, 1(4), (1989), 541-555."
+  },
+  {
+    "seed_paper": "cnn",
+    "patent_id": "US-11678831-B2",
+    "filing_date": "20210809",
+    "assignee": "Cardiologs Technologies Sas",
+    "npl_citation_text": "Lecun, et al., Backpropagation Applied to Handwritten Zip Code Recognition, Neural Computation, 1(4):541-551 (Dec. 1989)."
+  },
+  {
+    "seed_paper": "cnn",
+    "patent_id": "US-11875244-B2",
+    "filing_date": "20220805",
+    "assignee": "Shanghaitech University",
+    "npl_citation_text": "Y. Lecun, et al., Backpropagation Applied to Handwritten Zip Code Recognition, Neural Computation, 1989, pp. 541-551, vol. 1."
+  },
+  {
+    "seed_paper": "cnn",
+    "patent_id": "US-12444306-B2",
+    "filing_date": "20231108",
+    "assignee": "Geotab Inc.",
+    "npl_citation_text": "Lecun et al., Backpropagation applied to handwritten zip code recognition. Neural Computation. Dec. 1989;1(4):541-51."
+  },
+  {
+    "seed_paper": "dropout",
+    "patent_id": "US-10902311-B2",
+    "filing_date": "20161228",
+    "assignee": "International Business Machines Corporation",
+    "npl_citation_text": "Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov, \"Dropout: A Simple Way to Prevent Neural Networks from Overfitting\", Journal of Machine Learning Research 15, pp. 1930-1958, 2014 (Year: 2014)."
+  },
+  {
+    "seed_paper": "dropout",
+    "patent_id": "US-11630996-B1",
+    "filing_date": "20180625",
+    "assignee": "Virginia Tech Intellectual Properties, Inc.",
+    "npl_citation_text": "Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I. & Salakhutdinov, R., \u201cDropout: A simple way to prevent neural networks from overfitting\u201d, The Journal of Machine Learning Research, vol. 15, No. 1, 1929-1958 (2014)."
+  },
+  {
+    "seed_paper": "dropout",
+    "patent_id": "US-10913549-B1",
+    "filing_date": "20180806",
+    "assignee": "Amazon Technologies, Inc.",
+    "npl_citation_text": "N. Srivastava, G. E. Hinton, A. Krizhevsky, I. Sutskever, and R. Salakhutdinov. Dropout: A Simple Way to Prevent Neural Networks from Overfitting. Journal of Machine Learning Research, 15(1):1929-1958, 2014."
+  },
+  {
+    "seed_paper": "dropout",
+    "patent_id": "US-11479243-B2",
+    "filing_date": "20190711",
+    "assignee": "Honda Motor Co., Ltd.",
+    "npl_citation_text": "Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan Salakhutdinov. Dropout: a simple way to prevent neural networks from overfitting. The Journal of Machine Learning Research, 15(1):1929-1958, 2014."
+  },
+  {
+    "seed_paper": "dropout",
+    "patent_id": "US-10901715-B1",
+    "filing_date": "20190926",
+    "assignee": "Jonathan RAIMAN",
+    "npl_citation_text": "Srivastava et al., Dropout: A Simple Way to Prevent Neural Networks from Overfilling, Journal of Machine Learning Research, 15(1):1929-1958, 2014; www.cs.toronto.edu/\u02dchinton/absps/JMLRdropout.pdf."
+  },
+  {
+    "seed_paper": "dropout",
+    "patent_id": "US-11609352-B2",
+    "filing_date": "20191113",
+    "assignee": "ExxonMobil Technology and Engineering Company",
+    "npl_citation_text": "Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I. and Salakhutdinov, R., \u201cDropout: A simple way to prevent neural networks from overfilling\u201d, Journal of Machine Learning Research 15, pp. 1929-1958, 2014."
+  },
+  {
+    "seed_paper": "dropout",
+    "patent_id": "US-11783196-B2",
+    "filing_date": "20200501",
+    "assignee": "Virginia Tech Intellectual Properties, Inc.",
+    "npl_citation_text": "Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever. I. & Salakhutdinov, R. Dropout: A simple way to prevent neural networks from overfitting. The Journal of Machine Learning Research 15, 1929-1958 (2014)."
+  },
+  {
+    "seed_paper": "dropout",
+    "patent_id": "US-11458987-B2",
+    "filing_date": "20200828",
+    "assignee": "Honda Motor Co., Ltd.",
+    "npl_citation_text": "N. Srivastava, G. Hinton, A. Krizhevsky, I. Sutskever, and R. Salakhut-dinov. Dropout: A Simple Way to Prevent Neural Networks from Overfitting. JMLR, 2014."
+  },
+  {
+    "seed_paper": "dropout",
+    "patent_id": "US-12203897-B2",
+    "filing_date": "20220228",
+    "assignee": "Ecole De Technologie Superieure",
+    "npl_citation_text": "Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., Salakhutdinov, R., 2014, Dropout: A simple way to prevent neural networks from overfitting, Journal of Machine Learning Research 15, pp. 1929-1958."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-10176799-B2",
+    "filing_date": "20160202",
+    "assignee": "Mitsubishi Electric Research Laboratories, Inc.",
+    "npl_citation_text": "Sepp Hochreiter and J\u00fcrgen Schmidhuber, \"Long short-term memory,\" Neural computation, vol. 9, No. 8, pp. 1735-1780, 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-10403269-B2",
+    "filing_date": "20160325",
+    "assignee": "Google Llc",
+    "npl_citation_text": "Hochreiter and Schmidhuber, \u201cLong Short-Term Memory,\u201d Neural Computation, vol. 9, No. 8, pp. 1735-1780, 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-10303811-B2",
+    "filing_date": "20160518",
+    "assignee": "Autodesk, Inc.",
+    "npl_citation_text": "S Hochreiter and J Schmidhuber. Long Short-Term Memory. Neural Computation 9(8):1735-1780 (1997)."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-10268646-B2",
+    "filing_date": "20170606",
+    "assignee": "Facebook, Inc.",
+    "npl_citation_text": "Sepp Hochreiter and J\u00fcrgen Schmidhuber, \"Long short-term memory,\" Neural computation 9, 8, 1735-1780, Dec. 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-10542270-B2",
+    "filing_date": "20180118",
+    "assignee": "Salesforce.Com, Inc.",
+    "npl_citation_text": "S. Hochreiter and J. Schmidhuber. Long short-term memory. Neural computation, 9(8)1735-1780, 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-11170287-B2",
+    "filing_date": "20180126",
+    "assignee": "Salesforce.Com, Inc.",
+    "npl_citation_text": "Sepp Hochreiter and Jurgen Schmidhuber. Long short-term memory. Neural computation, 9 8:1735-80, 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-10860858-B2",
+    "filing_date": "20180615",
+    "assignee": "Adobe Inc.",
+    "npl_citation_text": "S. Hochreiter and J. Schmidhuber. Long short-term memory. Neural Computing, 9(8), Nov. 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-10649462-B2",
+    "filing_date": "20180627",
+    "assignee": "Mobileye Vision Technologies Ltd.",
+    "npl_citation_text": "Sepp Hochreiter and Jtirgen Schmidhuber, Long short-term memory. Neural computation, 9(8): 1735-1780, 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-11260872-B2",
+    "filing_date": "20181012",
+    "assignee": "Honda Motor Co., Ltd.",
+    "npl_citation_text": "S. Hochreiter and J. Schmidhuber. Long short-term memory. Neural computation, 9(8):1735-1780, 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-12093023-B2",
+    "filing_date": "20181105",
+    "assignee": "R4N63R Capital Llc",
+    "npl_citation_text": "Sepp Hochreiter & Jurgen Schmidhuber, Long Short-Term memory, Neural Computation, vol. 9, Issue 8, p. 1735-1780, Nov. 15, 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-10937444-B1",
+    "filing_date": "20181120",
+    "assignee": "Educational Testing Service",
+    "npl_citation_text": "Hochreiter, Sepp, Schmidhuber, Jurgen; Long Short-Term Memory; Neural Computation, 9(8); pp. 1735-1780; 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-11154251-B2",
+    "filing_date": "20181210",
+    "assignee": "The Governing Council Of The University Of Toronto",
+    "npl_citation_text": "S. Hochreiter and J. Schmidhuber, \u201cLong Short-term Memory,\u201d Neural computation, vol. 9, pp. 1735-1780, Dec. 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-10666215-B2",
+    "filing_date": "20190625",
+    "assignee": "Sony Computer Entertainment Inc.",
+    "npl_citation_text": "Hochreiter & Schmidhuber \"Long Short-term memory\" Neural Computation 9(8):1735-1780 (1997)."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-11465633-B2",
+    "filing_date": "20190711",
+    "assignee": "Huawei Technologies Co., Ltd.",
+    "npl_citation_text": "Hochreiter Sepp and Schmidhuber Jurgen Long short-term memory [Article] // Neural Computation.\u20141997.\u20149.\u2014vol. 8. 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-11797705-B1",
+    "filing_date": "20191211",
+    "assignee": "Amazon Technologies, Inc.",
+    "npl_citation_text": "Hochreiter, S. and Schmidhuber, J., \u201cLong short-term memory,\u201d - Neural computation 9(8): pages 1-32, 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-11381888-B2",
+    "filing_date": "20200414",
+    "assignee": "Sony Interactive Entertainment Inc.",
+    "npl_citation_text": "Hochreiter & Schmidhuber. \u201cLong Short-term memory.\u201d Neural Computation 9(8): 1735-1780 (1997)."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-2020410341-A1",
+    "filing_date": "20200528",
+    "assignee": "Toyota Jidosha Kabushiki Kaisha",
+    "npl_citation_text": "S. Hochreiter and J. Schmidhuber, \"Long Short-Term Memory,\" in Neural Computation, vol. 9, no. 8, pp. 1735-1780, 15 Nov. 1997 (Year: 1997)"
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-11610069-B2",
+    "filing_date": "20200602",
+    "assignee": "Naver Corporation",
+    "npl_citation_text": "Hochreiter, Sepp; and Jurgen Schmidhuber; \u2018Long short-term memory\u2019; Neural Computation, vol. 9, Issue 8, pp. 1735-1780; Nov. 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-2022172264-A1",
+    "filing_date": "20200608",
+    "assignee": "Archithreads Llc",
+    "npl_citation_text": "Long Short-Term Memory (LSTM)\" - was published in a technical report by Sepp Hochreiter; J\u00fcrgen Schmidhuber; \u201cLong Short-Term Memory\u201d; Neural Computation 9(8) 1735-1780, 1997. Pages: 32"
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-11328433-B2",
+    "filing_date": "20200630",
+    "assignee": "Honda Motor Co., Ltd.",
+    "npl_citation_text": "S. Hochreiter and J. Schmidhuber, \u201cLong short-term memory,\u201d Neural computation, vol. 9, No. 8, pp. 1735-1780, 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-11458987-B2",
+    "filing_date": "20200828",
+    "assignee": "Honda Motor Co., Ltd.",
+    "npl_citation_text": "S. Hochreiter and J. Schmidhuber, \u201cLong Short-term Memory,\u201d Neural computation, 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-11915701-B2",
+    "filing_date": "20201014",
+    "assignee": "Refinitiv Us Organization Llc",
+    "npl_citation_text": "Sepp Hochreiter and Jurgen Schmidhuber. 1997. Long short-term memory. Neural computation, 9(8):1735-1780."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-11657802-B2",
+    "filing_date": "20201228",
+    "assignee": "Adobe Inc.",
+    "npl_citation_text": "S. Hochreiter and J. Schmidhuber, \u201cLong short-term memory,\u201d Neural computation, vol. 9, No. 8, pp. 1735-1780, 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-11611891-B2",
+    "filing_date": "20210126",
+    "assignee": "Huawei Technologies Co., Ltd.",
+    "npl_citation_text": "Sepp Hochreiter and J{umlaut over ( )}urgen Schmidhuber. 1997. Long Short-Term Memory. Neural Compute. 9, 8 (Nov. 1997), 1735-1780."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-11861317-B1",
+    "filing_date": "20210430",
+    "assignee": "Educational Testing Service",
+    "npl_citation_text": "Hochreiter, Sepp, Schmidhuber, Jurgen; Long Short-Term Memory; Neural Computation, 9(8); pp. 1735-1780; 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-11783849-B2",
+    "filing_date": "20210608",
+    "assignee": "Google Llc",
+    "npl_citation_text": "Hochreiter and Schmidhuber, \u201cLong Short-Term Memory,\u201d Neural Computation, vol. 9, No. 8, pp. 1735-1780, 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-11874419-B2",
+    "filing_date": "20210630",
+    "assignee": "Saudi Arabian Oil Company",
+    "npl_citation_text": "Hochreiter, S. and J. Schmidhuber; \u201cLong Short-Term Memory\u201d; Neural Computation, 9, 1997, pp. 1735-1780 (33 pages)."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-11874879-B2",
+    "filing_date": "20210827",
+    "assignee": "MyFitnessPal, Inc.",
+    "npl_citation_text": "Hochreiter, S., and Schmidhuber, J., \u201cLong short-term memory,\u201d Neural computation, 1997, pp. 1735-1780, vol. 9, No. 8."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-12128895-B2",
+    "filing_date": "20221003",
+    "assignee": "SK Hynix Inc.",
+    "npl_citation_text": "Hochreiter, S., & Schmidhuber, J. \u201cLong short-term memory\u201d Neural computation, 9(8), 1997, pp. 1735-1780."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-12223404-B2",
+    "filing_date": "20230126",
+    "assignee": "Steven D. Flinn",
+    "npl_citation_text": "Hochreiter, S. and Schmidhuber, J, \u201cLong short-term memory,\u201d Neural Computation, 1997, 32 pages, retrieved from //efaidnbmnnnibpcajpcglclefindmkaj/https://www.bioinf.jku.at/publications/older/2604.pdf."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-12587623-B2",
+    "filing_date": "20230307",
+    "assignee": "Koninklijke Philips N.V.",
+    "npl_citation_text": "\nHochreiter, Sepp, and Jurgen Schmidhuber. \u201cLong short-term memory.\u201d Neural computation 9.8 (1997): 1735-1780.\n"
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-11945099-B2",
+    "filing_date": "20230516",
+    "assignee": "Honda Motor Co., Ltd.",
+    "npl_citation_text": "S. Hochreiter and J. Schmidhuber, \u201cLong short-term memory,\u201d Neural computation, vol. 9, No. 8, pp. 1735-1780, 1997."
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-12521627-B2",
+    "filing_date": "20230609",
+    "assignee": "Sony Interactive Entertainment Inc.",
+    "npl_citation_text": "\nHochreiter & Schmidhuber \u201cLong Short-term memory\u201d Neural Computation 9(8):1735-1780 (1997).\n"
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-12496529-B2",
+    "filing_date": "20230707",
+    "assignee": "Sony Interactive Entertainment Inc.",
+    "npl_citation_text": "\nHochreiter & Schmidhuber \u201cLong Short-term memory\u201d Neural Computation 9(8):1735-1780 (1997).\n"
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-12491436-B2",
+    "filing_date": "20230731",
+    "assignee": "Sony Interactive Entertainment Inc.",
+    "npl_citation_text": "\nHochreiter & Schmidhuber \u201cLong Short-term memory\u201d Neural Computation 9(8):1735-1780 (1997).\n"
+  },
+  {
+    "seed_paper": "lstm",
+    "patent_id": "US-12451230-B2",
+    "filing_date": "20240318",
+    "assignee": "Abiomed, Inc.",
+    "npl_citation_text": "Hochreiter & Schmidhuber, Long Short-Term Memory, Neural Computation, vol. 9 Issue 8, 1997."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-9037464-B1",
+    "filing_date": "20130315",
+    "assignee": "Google Inc.",
+    "npl_citation_text": "Mikolov and Zweig, \"Linguistic Regularities in Continuous Space Word Representations,\" submitted to NAACL HLT, 6 pages, 2012."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-9535960-B2",
+    "filing_date": "20140414",
+    "assignee": "Microsoft Corporation",
+    "npl_citation_text": "Mikolov, et al., \"Linguistic Regularities in Continuous Space Word Representations,\" In Proceedings of the 2013 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, May 2013, 6 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-2015379571-A1",
+    "filing_date": "20140630",
+    "assignee": "Yahoo! Inc.",
+    "npl_citation_text": "Mikolov, Tomas, et al. \"Distributed representations of words and phrases and their compositionality.\" Advances in neural information processing systems. 2013. [Retrieved from Internet on 2017-03-29] <http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-composit"
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10635949-B2",
+    "filing_date": "20150707",
+    "assignee": "Xerox Corporation",
+    "npl_citation_text": "T. Mikolov, et al., \"Efficient estimation of word representations in vector space,\" ICLR Workshop, pp. 1-9 (2013)."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10339440-B2",
+    "filing_date": "20160218",
+    "assignee": "Digital Reasoning Systems, Inc.",
+    "npl_citation_text": "Mikolov, T. et al., \"Efficient Estimation of Word Representations in Vector Space,\" http://arxiv.org/pdf/1301.3781.pdf. pp. 1-12, California."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10423874-B2",
+    "filing_date": "20160526",
+    "assignee": "Baidu Usa Llc",
+    "npl_citation_text": "Mikolov et al., \"Efficient estimation of word representations in vector space,\" arXiv preprint arXiv:1301.3781, 2013 (12pgs)."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10007659-B2",
+    "filing_date": "20160607",
+    "assignee": "Panasonic Intellectual Property Management Co., Ltd.",
+    "npl_citation_text": "Tomas Mikolov et al., \"Efficient Estimation of Word Representations in Vector Space\", ICLR 2013."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10083157-B2",
+    "filing_date": "20160805",
+    "assignee": "Google Llc",
+    "npl_citation_text": "Mikolov et al. \"Efficient Estimation of Word Representations in Vector Space,\" arXiv 1301.3781v3, Sep. 7, 2013, 12 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10515400-B2",
+    "filing_date": "20160908",
+    "assignee": "Adobe Inc.",
+    "npl_citation_text": "Mikolov,\"Efficient estimation of word representations in vector space\", arXiv preprint arXiv:1301.3781 (2013), Sep. 7, 2013, 12 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10706310-B2",
+    "filing_date": "20170131",
+    "assignee": "Nec Corporation",
+    "npl_citation_text": "Mikolov, T. et al., \"Efficient Estimation of Word Representations in Vector Space\" arXiv (Jan. 2013) pp. 1-12."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11182414-B2",
+    "filing_date": "20170320",
+    "assignee": "International Business Machines Corporation",
+    "npl_citation_text": "Mikolov, T., \u201cword2vec: Tool for computing continuous distributed representations of words\u201d, https://code.google.com/p/word2vec, last visited on Jan. 4, 2017, pp. 1-7."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10268646-B2",
+    "filing_date": "20170606",
+    "assignee": "Facebook, Inc.",
+    "npl_citation_text": "Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean, \"Efficient estimation of word representations in vector space,\" arXiv preprint arXiv: 1301.3781, Jan. 16, 2013."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11159547-B2",
+    "filing_date": "20170803",
+    "assignee": "International Business Machines Corporation",
+    "npl_citation_text": "Tomas Mikolov et al., \u201cEfficient Estimation of Word Representations in Vector Space\u201d, arXiv:1301.3781v3 [cs.CL] Sep. 7, 2013."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10417266-B2",
+    "filing_date": "20170809",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11941517-B1",
+    "filing_date": "20171122",
+    "assignee": "Amazon Technologies, Inc.",
+    "npl_citation_text": "Tomas Mikolov, et al., \u201cEfficient Estimation of Word Representations in Vector Space\u201d, Retrieved from arXiv:1301.3781v3 [cs.CL], Sep. 7, 2013, pp. 1-12."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11354565-B2",
+    "filing_date": "20171222",
+    "assignee": "Salesforce.Com, Inc.",
+    "npl_citation_text": "Mikolov (\u201cEfficient Estimation of Word Representations in Vector Space\u201d) arXiv:1301.3781v3 [cs.CL] Sep. 7, 2013 (Year: 2013)."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10529332-B2",
+    "filing_date": "20180104",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11507800-B2",
+    "filing_date": "20180306",
+    "assignee": "Adobe Inc.",
+    "npl_citation_text": "Mikolov, \u201cEfficient estimation of word representations in vector space\u201d, arXiv preprint arXiv:1301.3781 (2013), Sep. 7, 2013, 12 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10817509-B2",
+    "filing_date": "20180315",
+    "assignee": "Massachusetts Institute Of Technology",
+    "npl_citation_text": "Mikolov et al, \"Efficient estimation of word representations in vector space,\" arXiv:1301.3781v3 [cs.CL] Sep. 7, 2013, 12 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11600194-B2",
+    "filing_date": "20180612",
+    "assignee": "Salesforce.Com, Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cEfficient Estimation of Word Representations In Vector Space,\u201d ArXiv:1301.3781, Sep. 7, 2013, 12 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10592604-B2",
+    "filing_date": "20180629",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10762423-B2",
+    "filing_date": "20180807",
+    "assignee": "Asapp, Inc.",
+    "npl_citation_text": "Mikolov, et al., \"Distributed Representations ofWords and Phrases and their Compositionality\", CoRR, accessed at https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf, 2013 (accessed on Jan. 3, 2017), 9 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10453443-B2",
+    "filing_date": "20180822",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10984780-B2",
+    "filing_date": "20180823",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11218498-B2",
+    "filing_date": "20180905",
+    "assignee": "Oracle International Corporation",
+    "npl_citation_text": "Mikolov et al., \u201cEfficient Estimation of Word Representations in Vector Space\u201d, dated Sep. 7, 2013, 12 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11194958-B2",
+    "filing_date": "20180906",
+    "assignee": "Adobe Inc.",
+    "npl_citation_text": "Mikolov,\u201cEfficient estimation of word representations in vector space\u201d, arXiv preprint arXiv:1301.3781 (2013), Sep. 7, 2013, 12 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10438595-B2",
+    "filing_date": "20181009",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10915707-B2",
+    "filing_date": "20181019",
+    "assignee": "MachineVantage, Inc.",
+    "npl_citation_text": "Mikolov, K. Chen, G. Corrado, and J. Dean. 2013, \"Efficient Estimation of Word Representations in Vector Space,\" arXiv preprint, 12 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10699717-B2",
+    "filing_date": "20181030",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11231904-B2",
+    "filing_date": "20181031",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10497004-B2",
+    "filing_date": "20181113",
+    "assignee": "Asapp, Inc.",
+    "npl_citation_text": "Mikolov, Tomas et al., \"Distributed Representations of Words and Phrases and their Compositionality\", CoRR, accessed at https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf, 2013 (accessed on Jan. 3, 2017), 9 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10824815-B2",
+    "filing_date": "20190102",
+    "assignee": "Netapp, Inc.",
+    "npl_citation_text": "T. Mikolov et al, \"Efficient Estimation of Word Representations in Vector Space\", arXiv preprint arXiv:1301.3781, Sep. 7, 2013."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11227589-B2",
+    "filing_date": "20190116",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10783202-B2",
+    "filing_date": "20190213",
+    "assignee": "International Business Machines Corporation",
+    "npl_citation_text": "Tomas Mikolov et al., Efficient Estimation of Word Representations in Vector Space, arXiv:1301.3781, arXiv:1301.3781v3 [cs.CL], Sep. 7, 2013."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10909171-B2",
+    "filing_date": "20190301",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11475898-B2",
+    "filing_date": "20190807",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10649750-B2",
+    "filing_date": "20190813",
+    "assignee": "Sas Institute Inc.",
+    "npl_citation_text": "Mikolov, et al. Efficient estimation of word representations in vector space: arXiv:1301.3781v3, Sep. 7, 2013."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11120229-B2",
+    "filing_date": "20190904",
+    "assignee": "Optum Technology, Inc.",
+    "npl_citation_text": "Mikolov, Tomas et al. \u201cEfficient Estimation of Word Representations in Vector Space,\u201d pp. 1-12, arXiv: 1301.3781v3 [cs.CL], Sep. 7, 2013."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11610678-B2",
+    "filing_date": "20191003",
+    "assignee": "Fujitsu Limited",
+    "npl_citation_text": "Mikolov et al., \u201cEfficient Estimation of Word Representations in Vector Space\u201d, pp. 1-12, Sep. 7, 2013."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11676193-B1",
+    "filing_date": "20191111",
+    "assignee": "Amazon Technologies, Inc.",
+    "npl_citation_text": "Tomas Mikolov et al., \u201cEfficient Estimation of Word Representations in Vector Space.\u201d Proceedings of Workshop at ICLR. Jan. 2013."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11087759-B2",
+    "filing_date": "20191126",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12039513-B2",
+    "filing_date": "20191202",
+    "assignee": "Visa International Service Association",
+    "npl_citation_text": "Mikolov et al., \u201cEfficient Estimation of Word Representations in Vector Space\u201d, arXiv:1301.3781v3, Sep. 2013, pp. 1-12."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11373042-B2",
+    "filing_date": "20191203",
+    "assignee": "Baidu Usa Llc",
+    "npl_citation_text": "Mikolov et al.\u201cEfficient estimation of word representations in vector space,\u201d arXiv preprint arXiv:1301.3781, 2013. (12 pgs)."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11115338-B2",
+    "filing_date": "20191210",
+    "assignee": "Hughes Network Systems, Llc",
+    "npl_citation_text": "Tomas Mikolov et al; Efficient estimation of word representations in vector space; 2013; CoRR, vol. abs/1301.3781."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11640379-B2",
+    "filing_date": "20200102",
+    "assignee": "Kyndryl, Inc.",
+    "npl_citation_text": "Mikolov et al., Efficient Estimation of Word Representations in Vector Space, Sep. 7, 2013, https://arxiv.org/abs/1301.3781."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11669735-B2",
+    "filing_date": "20200123",
+    "assignee": "Vmware, Inc.",
+    "npl_citation_text": "Mikolov, Tomas et al. \u201cEfficient Estimation of Word Representations in VectorSpace\u201d, 2013, 12 pgs."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11133008-B2",
+    "filing_date": "20200225",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov, et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Atlanta, Georgia, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10831516-B1",
+    "filing_date": "20200309",
+    "assignee": "Adobe Inc.",
+    "npl_citation_text": "Mikolov,\"Efficient estimation of word representations in vector space\", arXiv preprint arXiv:1301.3781 (2013), Sep. 7, 2013, 12 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10795935-B2",
+    "filing_date": "20200310",
+    "assignee": "Sas Institute Inc.",
+    "npl_citation_text": "Mikolov, et al. Efficient estimation of word representations in vector space:\u2014arXiv 1301.3781 Sep. 7, 2013."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11275729-B2",
+    "filing_date": "20200317",
+    "assignee": "Hitachi, Ltd.",
+    "npl_citation_text": "Mikolov T. et al, \u201cEfficient Estimation of Word Representations in Vector Space\u201d, 2013, pp. 1-12, arXiv preprint arXiv:1301.3781v3 (12 pages)."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12131365-B2",
+    "filing_date": "20200324",
+    "assignee": "The Board Of Trustees Of The University Of Illinois",
+    "npl_citation_text": "Mikolov, Tomas, et al., \u201cEfficient estimation of word representations in vector space,\u201d arXiv:1301.3781 (Sep. 7, 2013)."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11379548-B2",
+    "filing_date": "20200505",
+    "assignee": "International Business Machines Corporation",
+    "npl_citation_text": "Mikolov, Tomas et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT 2013, pp. 746-751, Atlanta, Georgia, Association for Computational Linguistics, Jun. 2013."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11423886-B2",
+    "filing_date": "20200520",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10978090-B2",
+    "filing_date": "20200520",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11257504-B2",
+    "filing_date": "20200522",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11009970-B2",
+    "filing_date": "20200527",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11511882-B2",
+    "filing_date": "20200611",
+    "assignee": "Qatar Foundation For Education, Science And Community Development",
+    "npl_citation_text": "T. Mikolov, K. Chen, G. Corrado, and J. Dean, \u201cEfficient Estimation of Word Representations in Vector Space,\u201d CoRR, vol. abs/1301.3781, 2013. [Online]. Available: http://arxiv.org/abs/1301.3781."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11556698-B2",
+    "filing_date": "20200615",
+    "assignee": "Oracle International Corporation",
+    "npl_citation_text": "Mikolov et al., Efficient Estimation of Word Representations in Vector Space, Available Online at: https://arxiv.org/pdf/1301.3781.pdf, Sep. 7, 2013, pp. 1-12."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11615422-B2",
+    "filing_date": "20200629",
+    "assignee": "Asapp, Inc.",
+    "npl_citation_text": "Mikolov, Tomas et al., \u201cDistributed Representations of Words and Phrases and their Compositionality\u201d, CoRR, accessed at https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf, 2013 (accessed on Jan. 3, 2017), 9 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12032546-B2",
+    "filing_date": "20200716",
+    "assignee": "nference, inc.",
+    "npl_citation_text": "Mikolov, T. et al., \u201cEfficient Estimation of Word Representations in Vector Space\u201d, retrieved online from URL: https://arXiv.org/abs/1301.3781v3 [cs.CL] Sep. 7, 2013 (12 pages)."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11798547-B2",
+    "filing_date": "20200806",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11755276-B2",
+    "filing_date": "20200811",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11960519-B2",
+    "filing_date": "20200820",
+    "assignee": "Google Llc",
+    "npl_citation_text": "Mikolov, Tomas et al. Efficient Estimation of Word Representations in Vector Space. International Conference on Learning Representations (ICLR), Scottsdale, Arizona, USA. May 2013. 12 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11380310-B2",
+    "filing_date": "20200820",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11086645-B1",
+    "filing_date": "20200917",
+    "assignee": "Adobe Inc.",
+    "npl_citation_text": "Mikolov, Tomas et al., \u201cEfficient estimation of word representations in vector space\u201d, arXiv preprint arXiv:1301.3781 (2013), Sep. 7, 2013, 12 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-10958982-B1",
+    "filing_date": "20200918",
+    "assignee": "Alphonso Inc.",
+    "npl_citation_text": "Mikolov et al., \"Efficient Estimation of Word Representations in Vector Space,\" Proceedings of Workshop at ICLR, arXiv:1301.378av3, 12 pages (2013)."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11048884-B2",
+    "filing_date": "20201001",
+    "assignee": "Sas Institute Inc.",
+    "npl_citation_text": "Mikolov, Tomas, et al., \u201cEfficient Estimation of Word Representations in Vector Space\u201d, Cornell University, 12 pages (Sep. 7, 2017)."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11710482-B2",
+    "filing_date": "20201008",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11989657-B2",
+    "filing_date": "20201015",
+    "assignee": "Oracle International Corporation",
+    "npl_citation_text": "Mikolov et al., \u201cEfficient Estimation of Word Representations in Vector Space\u201d, dated Sep. 7, 2013, 12 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11797887-B2",
+    "filing_date": "20201228",
+    "assignee": "International Business Machines Corporation",
+    "npl_citation_text": "Mikolov, Tomas, et al. \u201cEfficient estimation of word representations in vector space.\u201d arXiv preprint arXiv:1301.3781 (2013)."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11438226-B2",
+    "filing_date": "20210202",
+    "assignee": "Cisco Technology, Inc.",
+    "npl_citation_text": "Tomas Mikolov et al., \u201cEfficient Estimation of Word Representations in Vector Space\u201d, arXiv:1301.3781v3 [cs.CL], Sep. 7, 2013, 12 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11809824-B1",
+    "filing_date": "20210212",
+    "assignee": "Google Llc",
+    "npl_citation_text": "Mikolov and Zweig, \u201cLinguistic Regularities in Continuous Space Word Representations,\u201d submitted to NAACL HLT, 2012, 6 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12038954-B2",
+    "filing_date": "20210331",
+    "assignee": "Rovi Guides, Inc.",
+    "npl_citation_text": "Mikolov et al., Efficient Estimation of Word Representations in Vector Space, ICLR Workshop, 2013."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11675965-B2",
+    "filing_date": "20210407",
+    "assignee": "At&T Intellectual Property I, L.P.",
+    "npl_citation_text": "Mikolov, T., Chen, K., Corrado, G., Dean, J., 2013. Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11853331-B2",
+    "filing_date": "20210514",
+    "assignee": "Wyzant, Inc.",
+    "npl_citation_text": "Mikolov, Efficient Estimation of Word Representations in Vector Space, 2013."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12073147-B2",
+    "filing_date": "20210609",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11321116-B2",
+    "filing_date": "20210622",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12154024-B2",
+    "filing_date": "20210810",
+    "assignee": "Nec Corporation",
+    "npl_citation_text": "Mikolov, et al. \u201cEfficient Estimation of Word Representations in Vector Space,\u201d arXiv:1301.3781 [cs.CL], Sep. 2013. (Year: 2013)."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11874879-B2",
+    "filing_date": "20210827",
+    "assignee": "MyFitnessPal, Inc.",
+    "npl_citation_text": "Mikolov, T., Sutskever, I., Chen, K., Corrado, G., and Dean, J., \u201cEfficient estimation of word representations in vector space,\u201d in Proceedings of Workshop at ICLR, 2013."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11900923-B2",
+    "filing_date": "20210907",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11705130-B2",
+    "filing_date": "20211112",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12038960-B2",
+    "filing_date": "20211117",
+    "assignee": "Adobe Inc.",
+    "npl_citation_text": "Mikolov et al., Advances in Pre-Training Distributed Word Representations, Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), May 2018, pp. 52-55."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12235790-B2",
+    "filing_date": "20220211",
+    "assignee": "Salesforce, Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cEfficient Estimation of Word Representations in Vector Space,\u201d International Conference on Learning Representation, 2013 (ICLR). Cornell University Library. Jan. 16, 2013. arXiv:1301.3781. pp. 1-12."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12205026-B2",
+    "filing_date": "20220217",
+    "assignee": "Nec Corporation",
+    "npl_citation_text": "Mikolov, Tomas, et al. \u201cEfficient Estimation of Word Representations in Vector Space\u201d, arXiv:1301.3781v3 [cs.CL]. Sep. 7, 2013, pp. 1-12."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12176109-B2",
+    "filing_date": "20220310",
+    "assignee": "Aetna Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cEfficient Estimation of Word Representations in Vector Space,\u201d ICLR Workshop Papers (2013)."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11675491-B2",
+    "filing_date": "20220311",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12381004-B2",
+    "filing_date": "20220324",
+    "assignee": "Aetna Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cEfficient Estimation of Word Representations in Vector Space,\u201d ICLR Workshop Papers (2013)."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11861324-B2",
+    "filing_date": "20220525",
+    "assignee": "Visa International Service Association",
+    "npl_citation_text": "Mikolov et al., \u201cEfficient Estimation of Word Representations in Vector Space\u201d, ICLR (Workshop Poster), arXiv:1301.3781v3, 2013, pp. 1-12."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11750962-B2",
+    "filing_date": "20220822",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11729286-B2",
+    "filing_date": "20220902",
+    "assignee": "Adobe Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cEfficient Estimation of Word Representations in Vector Space\u201d, Proceedings of the International Conference on Learning Representations, Sep. 7, 2013, 12 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12165663-B2",
+    "filing_date": "20221114",
+    "assignee": "Google Llc",
+    "npl_citation_text": "Mikolov et al., \u201cEfficient Estimation of Word Representations in Vector Space,\u201d arXiv:1301v3, Sep. 7, 2013, 12 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12488192-B2",
+    "filing_date": "20230119",
+    "assignee": "Oracle International Corporation",
+    "npl_citation_text": "\nMikolov et al., Efficient Estimation of Word Representations in Vector Space, Available Online at: https://arxiv.org/pdf/1301.3781.pdf, Sep. 7, 2013, pp. 1-12.\n"
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11837237-B2",
+    "filing_date": "20230208",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12045126-B1",
+    "filing_date": "20230210",
+    "assignee": "Dell Products L.P.",
+    "npl_citation_text": "T. Mikolov et al., \u201cEfficient Estimation of Word Representations in Vector Space,\u201d arXiv:1301.3781v3, Sep. 7, 2013, 12 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-11875813-B2",
+    "filing_date": "20230331",
+    "assignee": "The Trustees Of Columbia University In The City Of New York",
+    "npl_citation_text": "Mikolov, T., Chen, K., Corrado, G. & Dean, J. Efficient estimation of word representations in vector space. in 1st International Conference on Learning Representations, ICLR 2013\u2014Workshop Track Proceedings (International Conference on Learning Representations, ICLR, 2013)."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12175977-B2",
+    "filing_date": "20230419",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12293763-B2",
+    "filing_date": "20230726",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12236952-B2",
+    "filing_date": "20230926",
+    "assignee": "Apple Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cLinguistic Regularities in Continuous Space Word Representations\u201d, Proceedings of NAACL-HLT, Jun. 9-14, 2013, pp. 746-751."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12415130-B2",
+    "filing_date": "20240118",
+    "assignee": "Stats Llc",
+    "npl_citation_text": "Mikolov, et al., \u201cEfficient Estimation of Word Representations in Vector Space\u201d, arXiv:1301.3781v3, Dated Sep. 7, 2013, 12 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12437846-B2",
+    "filing_date": "20250103",
+    "assignee": "AxiomBio, Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cEfficient Estimation of Word Representations in Vector Space,\u201d CoRR, Submitted on Sep. 7, 2013, arXiv:1301.3781v3, 12 pages."
+  },
+  {
+    "seed_paper": "word2vec",
+    "patent_id": "US-12367951-B1",
+    "filing_date": "20250103",
+    "assignee": "AxiomBio, Inc.",
+    "npl_citation_text": "Mikolov et al., \u201cEfficient Estimation of Word Representations in Vector Space,\u201d CoRR, Submitted on Sep. 7, 2013, arXiv:1301.3781v3, 12 pages."
+  }
+]

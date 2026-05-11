@@ -1,0 +1,97 @@
+{
+  "catalogs": [
+    {
+      "name": "local",
+      "type": "duckdb",
+      "jdbc": {
+        "jdbcUri": "jdbc:duckdb:/data/hidden_pillars.db",
+        "driverClass": "org.duckdb.DuckDBDriver"
+      }
+    }
+  ],
+  "graph": {
+    "vertices": [
+      {
+        "label": "Paper",
+        "oneToOne": {
+          "tableSource": {
+            "catalog": "local",
+            "schema": "main",
+            "table": "nodes"
+          },
+          "id": {
+            "fields": [
+              {
+                "type": "String",
+                "field": "id",
+                "alias": "id"
+              }
+            ]
+          },
+          "attributes": [
+            {
+              "type": "String",
+              "field": "title",
+              "alias": "title"
+            },
+            {
+              "type": "Long",
+              "field": "year",
+              "alias": "year"
+            },
+            {
+              "type": "Long",
+              "field": "cited_by_count",
+              "alias": "cited_by_count"
+            },
+            {
+              "type": "String",
+              "field": "node_type",
+              "alias": "node_type"
+            }
+          ]
+        }
+      }
+    ],
+    "edges": [
+      {
+        "label": "CITES",
+        "fromVertex": "Paper",
+        "toVertex": "Paper",
+        "tableSource": {
+          "catalog": "local",
+          "schema": "main",
+          "table": "edges"
+        },
+        "id": {
+          "fields": [
+            {
+              "type": "Long",
+              "field": "edge_id",
+              "alias": "edge_id"
+            }
+          ]
+        },
+        "fromId": {
+          "fields": [
+            {
+              "type": "String",
+              "field": "source",
+              "alias": "source"
+            }
+          ]
+        },
+        "toId": {
+          "fields": [
+            {
+              "type": "String",
+              "field": "target",
+              "alias": "target"
+            }
+          ]
+        },
+        "attributes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "patent_google_search",
+    "patent_number": "US10984321B2",
+    "assignee": "Google LLC",
+    "product": "Google Search (RAG/Semantic)",
+    "dependencies": ["backprop", "attention", "word2vec"]
+  },
+  {
+    "id": "patent_openai_gpt",
+    "patent_number": "US11244589B1",
+    "assignee": "OpenAI OpCo LLC",
+    "product": "ChatGPT (LLM)",
+    "dependencies": ["backprop", "attention", "dropout"]
+  },
+  {
+    "id": "patent_tesla_vision",
+    "patent_number": "US10565463B2",
+    "assignee": "Tesla Inc",
+    "product": "Autopilot Perception",
+    "dependencies": ["backprop", "cnn", "dropout"]
+  },
+  {
+    "id": "patent_deepmind_alphafold",
+    "patent_number": "US11094392B2",
+    "assignee": "DeepMind Technologies Ltd",
+    "product": "AlphaFold (Protein Folding)",
+    "dependencies": ["backprop", "attention", "dropout"]
+  },
+  {
+    "id": "patent_apple_siri",
+    "patent_number": "US9875742B2",
+    "assignee": "Apple Inc",
+    "product": "Siri (Voice Assistant)",
+    "dependencies": ["lstm", "dropout"]
+  },
+  {
+    "id": "patent_meta_translation",
+    "patent_number": "US10891465B2",
+    "assignee": "Meta Platforms Inc",
+    "product": "SeamlessM4T (Translation)",
+    "dependencies": ["lstm", "attention"]
+  },
+  {
+    "id": "patent_microsoft_copilot",
+    "patent_number": "US11334791B2",
+    "assignee": "Microsoft Corp",
+    "product": "GitHub Copilot (Code Completion)",
+    "dependencies": ["backprop", "attention", "dropout"]
+  },
+  {
+    "id": "patent_amazon_recsys",
+    "patent_number": "US10242385B2",
+    "assignee": "Amazon Technologies Inc",
+    "product": "Amazon Recommendation Engine",
+    "dependencies": ["dropout", "word2vec"]
+  },
+  {
+    "id": "patent_ibm_watson",
+    "patent_number": "US9984332B2",
+    "assignee": "IBM Corp",
+    "product": "Watson Health (Medical Imaging)",
+    "dependencies": ["backprop", "cnn", "dropout"]
+  },
+  {
+    "id": "patent_midjourney_diffusion",
+    "patent_number": "US11568432B2",
+    "assignee": "Midjourney Inc",
+    "product": "Midjourney (Image Generation)",
+    "dependencies": ["backprop", "cnn", "dropout"]
+  }
+]

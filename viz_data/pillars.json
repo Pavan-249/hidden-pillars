@@ -1,0 +1,68 @@
+[
+  {
+    "id": "backprop",
+    "title": "Learning representations by back-propagating errors",
+    "year": 1986,
+    "direct_cites": 30451,
+    "ris_score": 22679,
+    "collapse_percent": 78,
+    "quote": "If you remove this 1986 paper, modern neural networks lose their mathematical foundation. Almost every major AI model today relies on this.",
+    "domain_capture": { "Transformers": 82, "CNNs": 91, "RNNs": 95, "RL": 70, "NLP": 88 },
+    "gremlin_query": "g.V().has('Paper', 'title', 'backprop').repeat(inE('CITES').outV()).times(2).emit().dedup().count()"
+  },
+  {
+    "id": "lstm",
+    "title": "Long short-term memory",
+    "year": 1997,
+    "direct_cites": 96561,
+    "ris_score": 29063,
+    "collapse_percent": 63,
+    "quote": "Before transformers, memory meant LSTMs. Wipe this 1997 paper and early translation engines and voice assistants break.",
+    "domain_capture": { "Transformers": 71, "CNNs": 22, "RNNs": 97, "RL": 45, "NLP": 82 },
+    "gremlin_query": "g.V().has('Paper', 'title', 'lstm').repeat(inE('CITES').outV()).times(2).emit().dedup().count()"
+  },
+  {
+    "id": "attention",
+    "title": "Neural machine translation by jointly learning to align and translate",
+    "year": 2014,
+    "direct_cites": 14596,
+    "ris_score": 20162,
+    "collapse_percent": 71,
+    "quote": "This 2014 paper gave neural networks the ability to focus. No attention means no transformers and no large language models.",
+    "domain_capture": { "Transformers": 94, "CNNs": 18, "RNNs": 68, "RL": 30, "NLP": 91 },
+    "gremlin_query": "g.V().has('Paper', 'title', 'attention').repeat(inE('CITES').outV()).times(2).emit().dedup().count()"
+  },
+  {
+    "id": "cnn",
+    "title": "Backpropagation applied to handwritten zip code recognition",
+    "year": 1989,
+    "direct_cites": 11800,
+    "ris_score": 23997,
+    "collapse_percent": 57,
+    "quote": "The paper that taught computers to see. Without it, modern computer vision, including self driving perception and medical imaging, disappears.",
+    "domain_capture": { "Transformers": 24, "CNNs": 96, "RNNs": 10, "RL": 28, "NLP": 15 },
+    "gremlin_query": "g.V().has('Paper', 'title', 'cnn').repeat(inE('CITES').outV()).times(2).emit().dedup().count()"
+  },
+  {
+    "id": "dropout",
+    "title": "Dropout: a simple way to prevent neural networks from overfitting",
+    "year": 2014,
+    "direct_cites": 34246,
+    "ris_score": 22123,
+    "collapse_percent": 49,
+    "quote": "A simple idea to turn off random neurons. Without Dropout, deep learning models overfit and fail to generalize in production.",
+    "domain_capture": { "Transformers": 65, "CNNs": 78, "RNNs": 60, "RL": 55, "NLP": 70 },
+    "gremlin_query": "g.V().has('Paper', 'title', 'dropout').repeat(inE('CITES').outV()).times(2).emit().dedup().count()"
+  },
+  {
+    "id": "word2vec",
+    "title": "Efficient estimation of word representations in vector space",
+    "year": 2013,
+    "direct_cites": 18114,
+    "ris_score": 20322,
+    "collapse_percent": 44,
+    "quote": "In 2013 words became points in space. Without this, there are no embeddings, no vector databases, and no RAG pipelines.",
+    "domain_capture": { "Transformers": 74, "CNNs": 12, "RNNs": 48, "RL": 20, "NLP": 93 },
+    "gremlin_query": "g.V().has('Paper', 'title', 'word2vec').repeat(inE('CITES').outV()).times(2).emit().dedup().count()"
+  }
+]

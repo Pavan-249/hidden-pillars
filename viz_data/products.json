@@ -1,0 +1,21 @@
+[
+  { "id": "chatbot", "name": "Chatbot/LLM", "dependencies": ["backprop", "attention", "dropout"] },
+  { "id": "image_gen", "name": "AI image generation", "dependencies": ["backprop", "cnn", "dropout"] },
+  { "id": "protein", "name": "Protein structure prediction", "dependencies": ["backprop", "dropout"] },
+  { "id": "self_driving", "name": "Self-driving perception", "dependencies": ["backprop", "cnn", "dropout"] },
+  { "id": "face_unlock", "name": "Face unlock", "dependencies": ["backprop", "cnn"] },
+  { "id": "search", "name": "Semantic search/RAG", "dependencies": ["backprop", "attention", "word2vec"] },
+  { "id": "voice", "name": "Voice assistant", "dependencies": ["lstm", "dropout"] },
+  { "id": "translation", "name": "Neural translation", "dependencies": ["lstm", "attention"] },
+  { "id": "predictive", "name": "Predictive text", "dependencies": ["lstm", "word2vec"] },
+  { "id": "medical", "name": "Medical imaging AI", "dependencies": ["backprop", "cnn", "dropout"] },
+  { "id": "writing", "name": "AI writing assistant", "dependencies": ["backprop", "attention", "dropout"] },
+  { "id": "recommendation", "name": "Recommendation engine", "dependencies": ["dropout", "word2vec"] },
+  { "id": "code", "name": "AI code completion", "dependencies": ["backprop", "attention", "dropout"] },
+  { "id": "robots", "name": "Package sorting robots", "dependencies": ["backprop", "cnn"] },
+  { "id": "drug", "name": "Drug discovery AI", "dependencies": ["backprop", "dropout", "word2vec"] },
+  { "id": "music", "name": "Music recommendation", "dependencies": ["dropout", "word2vec"] },
+  { "id": "cancer", "name": "Cancer detection", "dependencies": ["backprop", "cnn", "dropout"] },
+  { "id": "plant", "name": "Plant disease detection", "dependencies": ["cnn", "dropout"] },
+  { "id": "ad", "name": "Ad targeting model", "dependencies": ["dropout", "word2vec"] }
+]
