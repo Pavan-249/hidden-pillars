@@ -64,5 +64,16 @@
     "quote": "In 2013 words became points in space. Without this, there are no embeddings, no vector databases, and no RAG pipelines.",
     "domain_capture": { "Transformers": 74, "CNNs": 12, "RNNs": 48, "RL": 20, "NLP": 93 },
     "gremlin_query": "g.V().has('Paper', 'title', 'word2vec').repeat(inE('CITES').outV()).times(2).emit().dedup().count()"
+  },
+  {
+    "id": "vaswani",
+    "title": "Attention Is All You Need",
+    "year": 2017,
+    "direct_cites": 95000,
+    "ris_score": 38412,
+    "collapse_percent": 92,
+    "quote": "Eight researchers in 2017 abolished recurrence entirely and built a model from pure attention. Without this paper, there is no GPT, no BERT, no ChatGPT, and no modern AI assistant.",
+    "domain_capture": { "Transformers": 99, "CNNs": 28, "RNNs": 55, "RL": 48, "NLP": 97 },
+    "gremlin_query": "g.V().has('Paper', 'title', 'attention_is_all_you_need').repeat(inE('CITES').outV()).times(2).emit().dedup().count()"
   }
 ]

@@ -22,7 +22,11 @@ const PILLARS = [
   {id:"word2vec",abbr:"W2V",title:"Efficient estimation of word representations in vector space",year:2013,direct_cites:18114,ris_score:20322,collapse_percent:44,
    quote:"In 2013 words became points in space. Without this, there are no embeddings, no vector databases, and no semantic search.",
    domain_capture:{Transformers:74,CNNs:12,RNNs:48,RL:20,NLP:93},
-   gremlin_query:"g.V().has('Paper','title','word2vec')\n  .repeat(inE('CITES').outV())\n  .times(2).emit().dedup().count()"}
+   gremlin_query:"g.V().has('Paper','title','word2vec')\n  .repeat(inE('CITES').outV())\n  .times(2).emit().dedup().count()"},
+  {id:"vaswani",abbr:"AIAYN",title:"Attention Is All You Need",year:2017,direct_cites:95000,ris_score:38412,collapse_percent:92,
+   quote:"Eight researchers in 2017 abolished recurrence entirely and built a model from pure attention. Without this paper, there is no GPT, no BERT, no ChatGPT, and no modern AI assistant.",
+   domain_capture:{Transformers:99,CNNs:28,RNNs:55,RL:48,NLP:97},
+   gremlin_query:"g.V().has('Paper','title','attention_is_all_you_need')\n  .repeat(inE('CITES').outV())\n  .times(2).emit().dedup().count()"}
 ];
 
 // Real intermediate papers that bridge pillars to products
@@ -32,24 +36,23 @@ const BRIDGES = [
   {id:"yolo",   short:"YOLO",   title:"You Only Look Once: Real-Time Object Detection (Redmon, 2016)",cites:"20K",pillars:["backprop","cnn"]},
   {id:"seq2seq",short:"Seq2Seq",title:"Sequence to Sequence Learning with Neural Networks (Sutskever, 2014)",cites:"22K",pillars:["lstm"]},
   {id:"cho2014",short:"Enc-Dec",title:"Learning Phrase Representations using RNN Encoder-Decoder (Cho, 2014)",cites:"24K",pillars:["lstm","attention"]},
-  {id:"transformer",short:"Transformer",title:"Attention Is All You Need (Vaswani, 2017)",cites:"95K",pillars:["attention","backprop"]},
-  {id:"bert",   short:"BERT",   title:"BERT: Pre-training of Deep Bidirectional Transformers (Devlin, 2018)",cites:"80K",pillars:["attention","backprop","dropout"]},
-  {id:"gpt2",   short:"GPT-2",  title:"Language Models are Unsupervised Multitask Learners (Radford, 2019)",cites:"15K",pillars:["attention","backprop","dropout"]},
+  {id:"bert",   short:"BERT",   title:"BERT: Pre-training of Deep Bidirectional Transformers (Devlin, 2018)",cites:"80K",pillars:["vaswani","attention","dropout"]},
+  {id:"gpt2",   short:"GPT-2",  title:"Language Models are Unsupervised Multitask Learners (Radford, 2019)",cites:"15K",pillars:["vaswani","backprop","dropout"]},
   {id:"gan",    short:"GAN",    title:"Generative Adversarial Networks (Goodfellow, 2014)",cites:"55K",pillars:["backprop","dropout"]},
   {id:"glove",  short:"GloVe",  title:"GloVe: Global Vectors for Word Representation (Pennington, 2014)",cites:"27K",pillars:["word2vec"]},
   {id:"adam",   short:"Adam",   title:"Adam: A Method for Stochastic Optimization (Kingma, 2015)",cites:"100K",pillars:["dropout","backprop"]},
-  {id:"alphafold",short:"AlphaFold",title:"Highly accurate protein structure prediction (Jumper, 2021)",cites:"14K",pillars:["attention","backprop","dropout"]}
+  {id:"alphafold",short:"AlphaFold",title:"Highly accurate protein structure prediction (Jumper, 2021)",cites:"14K",pillars:["vaswani","backprop","dropout"]}
 ];
 
 const PRODUCTS = [
-  {id:"chatbot",    name:"Chatbot / LLM",             bridges:["gpt2","bert","transformer"]},
+  {id:"chatbot",    name:"Chatbot / LLM",             bridges:["gpt2","bert"]},
   {id:"image_gen",  name:"AI Image Generation",        bridges:["gan","resnet"]},
   {id:"protein",    name:"Protein Structure Pred.",    bridges:["alphafold"]},
   {id:"self_driving",name:"Self-driving Perception",   bridges:["yolo","resnet"]},
   {id:"face_unlock",name:"Face Unlock",                bridges:["alexnet","resnet"]},
-  {id:"search",     name:"Semantic Search / RAG",      bridges:["bert","glove","transformer"]},
+  {id:"search",     name:"Semantic Search / RAG",      bridges:["bert","glove"]},
   {id:"voice",      name:"Voice Assistant",            bridges:["seq2seq","cho2014"]},
-  {id:"translation",name:"Neural Translation",         bridges:["seq2seq","transformer","cho2014"]},
+  {id:"translation",name:"Neural Translation",         bridges:["seq2seq","cho2014"]},
   {id:"predictive", name:"Predictive Text",            bridges:["glove","bert"]},
   {id:"medical",    name:"Medical Imaging AI",         bridges:["resnet","alexnet"]},
   {id:"writing",    name:"AI Writing Assistant",       bridges:["gpt2","bert"]},
